@@ -5,6 +5,6 @@ using namespace std;
 int main(){
 
 	int a;
-	cout<<a<<endl;
+	cout<<a<<"New line at the end<<endl;
 }
 
