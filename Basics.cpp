@@ -1,10 +1,10 @@
 #include<iostream>
-
+#include "Basics.h"
 using namespace std;
+
 
 int main(){
 
-	int a;
-	cout<<a<<"New line at the end<<endl;
+	cout<<a<<" New line at the end"<<endl;
 }
 
